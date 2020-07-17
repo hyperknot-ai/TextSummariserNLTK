@@ -53,7 +53,7 @@ average = int(sumValues / len(sentenceValue))
 ```
 Apply the threshold value and store sentences in order into the summary.
 
-Check the complete code in [app.py](https://github.com/kamaravichow/text-summariser-python/app.py)
+Check the complete code in [app.py](https://github.com/kamaravichow/text-summariser-python/blob/master/app.py)
 
 Peace !
 
